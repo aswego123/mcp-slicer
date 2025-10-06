@@ -16,3 +16,8 @@ From the CTChest sample volume, create a threshold segmentation that isolates bo
 prompt4 given-
 Load the MRHead sample and segment the brain using threshold-based segmentation.
 <img width="1301" height="954" alt="Screenshot from 2025-10-06 11-51-14" src="https://github.com/user-attachments/assets/d4575d97-5774-41d6-85f2-0dc72704cf55" />
+
+ptompt5 given-
+Load the CTChest sample, segment the lungs using thresholding between -1000 and -300 HU, and show the 3D model.
+<img width="1301" height="954" alt="Screenshot from 2025-10-06 12-02-57" src="https://github.com/user-attachments/assets/4c7d2e8b-3e53-4dc0-b799-414d4438f7b7" />
+(dont dont know how to verify it -- -1000 and -300 HU)
